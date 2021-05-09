@@ -3,8 +3,8 @@
 //-------------------------------------------------------------------
 window.jlpt_items.kanji = {
 	N5: [// [characters, meanings, kunyomi, onyomi]
-		['人', 'persons', 'ひと,り,と', 'じん,にん'],
-		['日', 'day,sun,Japan,counter for days test', 'ひ,び,か', 'にち,じつ'],
+		['人', 'person test2', 'ひと,り,と', 'じん,にん'],
+		['日', 'day,sun,Japan,counter for days test2', 'ひ,び,か', 'にち,じつ'],
 	],
 	N4: [// [characters, meanings, kunyomi, onyomi]
 		['同', 'same,agree,equal', 'おな', 'どう'],
